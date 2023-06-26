@@ -10,10 +10,10 @@ My challenge was to build out this results summary component and get it looking 
 
 I could use any tools I like to help to complete this challenge.
 
-![Design project](./design/desktop-preview.jpg)  
+![Design project](desktop-preview.jpg)  
 
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help I improve my coding skills by building realistic projects.
+[Frontend Mentor](https://www.frontendmentor.io) challenges help me improve my coding skills by building real projects.
 
 **To do this challenge, I needed a basic understanding of HTML and CSS.**
 
