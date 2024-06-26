@@ -24,6 +24,3 @@ I could use any tools I like to help to complete this challenge.
 - Flexbox
 - CSS Grid
 - Mobile First
-
-###### Coded with love by Heloise Lui ❤️
-
